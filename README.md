@@ -1,0 +1,1 @@
+# Weather-BasedPredictionofWindTurbineEnergyOutput-ANext-GenerationApproachtoRenewableEnergyManagement
